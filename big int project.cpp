@@ -508,8 +508,6 @@ int main()
 		cout << "Factorial of "
 			<< i << " = ";
 		cout << fact << '\n';
-	}
-// This code is contributed
-// by Gatea David
+	} 
 }
 
